@@ -1,0 +1,30 @@
+.container {
+  margin-left: 300px;
+  margin-top: 200px;
+}
+.events {
+  margin: 50px 10px;
+}
+.space {
+  position: relative;
+  list-style: none;
+  padding-top: 100px;
+  margin-left: 250px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 500;
+}
+.save {
+  border: 15px;
+  padding: 3px;
+  background-color: blue;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  width: auto;
+  color: aliceblue;
+}
+h5 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+  margin: 100px;
+}

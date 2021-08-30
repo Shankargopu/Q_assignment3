@@ -1,0 +1,133 @@
+.my-container {
+  border: none;
+  margin-top: 200px;
+  position: sticky;
+  margin-left: 200px;
+  margin-bottom: 200px;
+}
+
+.my-col {
+  text-decoration: none;
+}
+.list {
+  text-decoration: none;
+}
+.categories {
+  margin-left: 450px;
+  font-weight: bold;
+}
+.b1 {
+  background-color: lightgreen;
+}
+#search {
+  margin-left: 1100px;
+  position: relative;
+  margin-top: -1px;
+}
+
+#user {
+  float: left;
+}
+h6 {
+  float: right;
+  position: relative;
+  margin-right: 50px;
+  margin-top: -10px;
+}
+#cart {
+  float: right;
+
+  margin-right: 70px;
+}
+.home {
+  margin-left: 500px;
+  position: relative;
+  margin-top: 20px;
+}
+#add {
+  position: relative;
+  margin-left: 450px;
+  margin-bottom: -150px;
+  border-radius: 15px;
+  padding: 3px;
+  color: black;
+  background-color: #24a0ed;
+  width: 100px;
+  font-size: small;
+  font-family: "Courier New", Courier, monospace;
+}
+#ad {
+  position: relative;
+  margin-left: 450px;
+  margin-bottom: -150px;
+  size: 500px;
+}
+#re {
+  padding: 3px;
+  color: black;
+  background-color: #24a0ed;
+  border-radius: 15px;
+  width: 100px;
+  font-size: small;
+  font-family: "Courier New", Courier, monospace;
+}
+#home {
+  position: relative;
+  margin-left: 450px;
+  margin-bottom: -120px;
+  border-radius: 15px;
+  padding: 3px;
+  color: black;
+  background-color: aqua;
+  width: 120px;
+}
+.container {
+  margin-bottom: -80px;
+}
+.quote {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  text-align: center;
+}
+.two {
+  list-style: none;
+  margin-left: 450px;
+}
+#can {
+  border-radius: 15px;
+  padding: 3px;
+  color: black;
+  background-color: #24a0ed;
+  width: 100px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: small;
+}
+#rep {
+  margin-left: 530px;
+}
+
+#home {
+  border-radius: 15px;
+  padding: 3px;
+  color: black;
+  background-color: #24a0ed;
+  width: 100px;
+  margin-left: 520px;
+  font-size: small;
+  font-family: "Courier New", Courier, monospace;
+}
+#pur {
+  border-radius: 15px;
+  padding: 3px;
+  color: black;
+  background-color: #24a0ed;
+  width: 100px;
+  font-size: small;
+  font-family: "Courier New", Courier, monospace;
+}
+.one {
+  list-style: none;
+}
+.fa-fa-shoppingcart {
+  color: gray;
+}

@@ -1,0 +1,16 @@
+.process {
+  font-size: small;
+  margin-left: 600px;
+  float: right;
+}
+.one {
+  list-style: none;
+  margin-left: 550px;
+  padding: 11px;
+}
+li {
+  margin: 15px 0;
+}
+.buttons {
+  margin-left: 200px;
+}

@@ -1,0 +1,173 @@
+#nav-bar {
+  margin-top: -50px;
+}
+.about {
+  font-weight: bolder;
+  margin-top: 13px;
+  margin-right: 17px;
+  color: white;
+  size: small;
+}
+body {
+  background-color: green;
+  color: green;
+}
+.image {
+  margin-left: 470px;
+  height: 150px;
+  width: 150px;
+  margin-top: -10px;
+}
+.image2 {
+  float: left;
+  width: 100px;
+  height: 100px;
+  margin-top: -60px;
+}
+.second {
+  background-color: lightgreen;
+  background-image: url("images/book.jpg");
+}
+#user {
+  font-weight: bold;
+  color: white;
+}
+.form {
+  color: white;
+}
+.login {
+  color: #24a0ed;
+  margin-top: 20px;
+  margin-left: 550px;
+  font-weight: bolder;
+  font-family: "Courier New", Courier, monospace;
+}
+.mail {
+  margin-left: 550px;
+  float: center;
+  color: rgb(255, 0, 128);
+  width: 300px;
+}
+.form-control {
+  margin-left: 500px;
+  width: 100px;
+}
+.form-outline mb-4 {
+  display: inline;
+}
+.pass {
+  margin-left: 557px;
+  float: center;
+  color: yellow;
+  width: 300px;
+  margin-bottom: 60px;
+}
+
+.new {
+  position: relative;
+  top: -80px;
+  font-family: "Courier New", Courier, monospace;
+}
+#signup {
+  position: relative;
+  top: -80px;
+  font-size: small;
+  font-family: "Fanklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  width: 100px;
+  height: 40px;
+  background-color: #24a0ed;
+}
+#signin {
+  font-size: small;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  width: 100px;
+  height: 40px;
+  background-color: #24a0ed;
+}
+.text-muted {
+  position: relative;
+  top: -120px;
+  margin-left: 230px;
+}
+li {
+  list-style: none;
+}
+.quote1 {
+  position: relative;
+  top: -220px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: x-large;
+}
+.quote2 {
+  position: relative;
+  float: right;
+  top: -270px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: x-large;
+}
+#help {
+  position: relative;
+  margin-left: 630px;
+  top: -160px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  width: 100px;
+  height: 40px;
+  background-color: #24a0ed;
+  font-size: small;
+}
+#prob {
+  position: relative;
+  margin-left: 700px;
+  top: -180px;
+  font-family: "Courier New", Courier, monospace;
+}
+h3 {
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-style: oblique;
+}
+.contact {
+  margin-top: -20px;
+  float: right;
+  color: #1da1f2;
+}
+.hyd {
+  text-align: center;
+  position: relative;
+  top: -22px;
+  margin-left: 370px;
+  color: #1da1f2;
+}
+.happy {
+  text-align: center;
+  text-decoration: mediumaquamarine;
+  position: relative;
+  top: -180px;
+  font-size: x-large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: white;
+  font-style: italic;
+}
+.foo {
+  margin-top: -140px;
+  color: #1da1f2;
+  font-family: "Courier New", Courier, monospace;
+}
+.fa-facebook {
+  color: blue;
+}
+.fa-instagram {
+  color: #8a3ab9;
+}
+.fa-twitter {
+  color: #1da1f2;
+}
+.fa-linkedin {
+  color: #0077b5;
+}
